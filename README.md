@@ -1,6 +1,6 @@
 # Hello, I'm Christopher Keller
 <a href="https://www.linkedin.com/in/1914ckeller/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+(Click me)
 
 I am an IT professional with a profound interest in Cyber security and a dedication to solving complex issuses.
 
@@ -9,50 +9,39 @@ I am an IT professional with a profound interest in Cyber security and a dedicat
 My journey as an Endpoint Technical Specialist has led me to develop a passion for cybersecurity and I am now eager to transition into this field. My experience with technology and communitcation skills make me a great fit for any Cyber Security role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ckeller1914/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Detection-Lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Ability to analyze and assess vulnerabilities   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Vulnerability remediation  | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+|          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+-Nessus Vulnerability Scanner
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+-Wireshark
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+-VMWare Player
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+-Microsoft Defender
+
+
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+-Comptia Security+
+
+-AWS Cloud Practitioner
+
+-Google IT Support
+
 
 ## Projects
 - <a href="https://github.com/ckeller1914/Detection-Lab">Detection Lab</a>
+- <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>
 - SOC Automation Project
