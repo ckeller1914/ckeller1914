@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/1914ckeller/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 (Click me)
 
-I am an IT professional with a profound interest in Cyber security and a dedication to solving complex issuses.
+I am an IT professional with a profound interest in Cloud security and a dedication to solving complex issuses.
 
 ## Objective
 
