@@ -42,6 +42,5 @@ My journey as an Endpoint Technical Specialist has led me to develop a passion f
 
 
 ## Projects
-- <a href="https://github.com/ckeller1914/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>
-- SOC Automation Project
+
