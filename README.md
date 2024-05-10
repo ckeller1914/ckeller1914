@@ -15,11 +15,13 @@ My journey as an Endpoint Technical Specialist has led me to develop a passion f
 |-----------------------------------------------|----------------------------|
 | Ability to analyze and assess vulnerabilities   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Vulnerability remediation  | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
-|          | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Network Analysis   |   <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Package Capture</a>  |
+| Protocol Analysis     |  <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Package Capture</a>  |
+|     | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+
 
 ## Tools
 -Nessus Vulnerability Scanner
@@ -43,4 +45,6 @@ My journey as an Endpoint Technical Specialist has led me to develop a passion f
 
 ## Projects
 - <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>
+
+- <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Package Capture</a>
 
