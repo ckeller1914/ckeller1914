@@ -11,16 +11,27 @@ My journey as an Endpoint Technical Specialist has led me to develop a passion f
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Security Projects         |
 |-----------------------------------------------|----------------------------|
+
+| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
+| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
 | Ability to analyze and assess vulnerabilities   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Vulnerability remediation  | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Network Analysis   |   <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
 | Protocol Analysis     |  <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
-|     | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+| Skill                                         | Cloud Projects         |
+|-----------------------------------------------|----------------------------|
+
+| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
+| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
+| Ability to analyze and assess vulnerabilities   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Vulnerability remediation  | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Network Analysis   |   <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
+| Protocol Analysis     |  <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
 
 
 ## Tools
