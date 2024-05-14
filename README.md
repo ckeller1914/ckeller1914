@@ -14,8 +14,8 @@ My journey as an Endpoint Technical Specialist has led me to develop a passion f
 
 | Skill                                         | Security Projects         |
 |-----------------------------------------------|----------------------------|
-| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender</a>|
-| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender</a>|
+| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>|
+| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>|
 | Analyze and assess vulnerabilities    | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Vulnerability remediation   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
