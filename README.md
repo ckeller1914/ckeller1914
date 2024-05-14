@@ -10,40 +10,30 @@ My journey as an Endpoint Technical Specialist has led me to develop a passion f
 
 ## Skills
 
+(Click links)
 
 | Skill                                         | Security Projects         |
 |-----------------------------------------------|----------------------------|
-
-| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
-
-| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
-
-| Ability to analyze and assess vulnerabilities   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
-
-| Vulnerability remediation  | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
-
+| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender</a>|
+| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender</a>|
+| Analyze and assess vulnerabilities    | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Vulnerability remediation   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
+| Network Analysis | <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>|
+| Protocol Analysis | <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>|
 
-| Network Analysis   |   <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
 
-| Protocol Analysis     |  <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
+
 
 | Skill                                         | Cloud Projects         |
 |-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
-
-| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">">Windows Defender</a>  |</a>  |
-
-| Ability to analyze and assess vulnerabilities   | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
-
-| Vulnerability remediation  | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
-
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
-
-| Network Analysis   |   <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
-
-| Protocol Analysis     |  <a href="https://github.com/ckeller1914/WiresharkPackageCapture">Wireshark Packet Capture</a>  |
 
 
 ## Tools
