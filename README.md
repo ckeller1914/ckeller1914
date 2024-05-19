@@ -1,6 +1,6 @@
 # Hello, I'm Christopher Keller
 <a href="https://www.linkedin.com/in/1914ckeller/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-### (Click me)
+(Click me)
 
   ### I am an IT professional with a profound interest in Cyber Security and a dedication to solving complex issuses.
 
@@ -13,8 +13,8 @@
 
 | Skill                                         | Security Projects         |
 |-----------------------------------------------|----------------------------|
-| Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>|
-| Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>|
+| SIEM Configuration and management | <a href="https://github.com/ckeller1914/SIEM-Lab">SIEM Lab</a>|
+| Cloud Configuration | <a href="https://github.com/ckeller1914/SIEM-Lab">SIEM Lab</a>|
 | Configuring Firewall Rules | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>|
 | Windows Defender Firewall | <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>|
 | Analyze and assess vulnerabilities    | <a href="https://github.com/ckeller1914/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment</a>|
@@ -25,29 +25,20 @@
 
 
 
-
 ## Tools
 
-  ### -Nessus Vulnerability Scanner
-
-  ### -Wireshark
-
-  ### -VMWare Player
-
-  ### -Microsoft Defender
+  ### Nessus Vulnerability Scanner | Wireshark | Virtual Machines | Microsoft Defender | Azure | Sentinel | Powershell | Log Analytics Workspace | Firewalls | Cloud
 
 
 
 ## Certifications
 
-  ### -Comptia Security+
-
-  ### -AWS Cloud Practitioner
-
-  ### -Google IT Support
+  ### Comptia Security+ | AWS Cloud Practitioner | Google IT Support | Microsoft Cybersecurity Analyst
 
 
 ## Projects
+
+  ### <a href="https://github.com/ckeller1914/SIEM-Lab">SIEM Lab</a>
 
   ### <a href="https://github.com/ckeller1914/Windows-Defender-and-Firewall">Windows Defender Firewall</a>
  
